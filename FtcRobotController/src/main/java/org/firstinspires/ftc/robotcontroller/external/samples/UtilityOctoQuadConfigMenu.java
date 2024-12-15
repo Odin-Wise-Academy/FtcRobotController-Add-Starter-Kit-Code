@@ -809,4 +809,10 @@ public class UtilityOctoQuadConfigMenu extends LinearOpMode
             }
         }
     }
+
+    public static class ControllorMapping {
+        if(gamepad.function)
+
+
+    }
 }
